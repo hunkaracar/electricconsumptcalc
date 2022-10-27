@@ -1,0 +1,11 @@
+C:\Users\Hünkar\C#Project\electricconsumptioncalc\electricconsumptioncalc\bin\Debug\electricconsumptioncalc.exe.config
+C:\Users\Hünkar\C#Project\electricconsumptioncalc\electricconsumptioncalc\bin\Debug\electricconsumptioncalc.exe
+C:\Users\Hünkar\C#Project\electricconsumptioncalc\electricconsumptioncalc\bin\Debug\electricconsumptioncalc.pdb
+C:\Users\Hünkar\C#Project\electricconsumptioncalc\electricconsumptioncalc\obj\Debug\electricconsumptioncalc.csproj.AssemblyReference.cache
+C:\Users\Hünkar\C#Project\electricconsumptioncalc\electricconsumptioncalc\obj\Debug\electricconsumptioncalc.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hünkar\C#Project\electricconsumptioncalc\electricconsumptioncalc\obj\Debug\electricconsumptioncalc.Form1.resources
+C:\Users\Hünkar\C#Project\electricconsumptioncalc\electricconsumptioncalc\obj\Debug\electricconsumptioncalc.Properties.Resources.resources
+C:\Users\Hünkar\C#Project\electricconsumptioncalc\electricconsumptioncalc\obj\Debug\electricconsumptioncalc.csproj.GenerateResource.cache
+C:\Users\Hünkar\C#Project\electricconsumptioncalc\electricconsumptioncalc\obj\Debug\electricconsumptioncalc.csproj.CoreCompileInputs.cache
+C:\Users\Hünkar\C#Project\electricconsumptioncalc\electricconsumptioncalc\obj\Debug\electricconsumptioncalc.exe
+C:\Users\Hünkar\C#Project\electricconsumptioncalc\electricconsumptioncalc\obj\Debug\electricconsumptioncalc.pdb
